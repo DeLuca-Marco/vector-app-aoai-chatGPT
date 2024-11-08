@@ -581,7 +581,7 @@ const Chat = () => {
                   />
                   <h1 className={styles.chatEmptyStateTitle}>Start chatting</h1>
                   <h2 className={styles.chatEmptyStateSubtitle}>
-                    This chatbot is configured to answer your IT Process related
+                    This chatbot is configured to answer your vSAQ related
                     questions.
                   </h2>
                   <h2 style={{ color: "#b70032" }}>
